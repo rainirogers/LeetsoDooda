@@ -7,8 +7,7 @@ html {
 h1 {
     color: #ffffff;
     font-family: 'EB Garamond', serif;
-    padding-bottom: 2.5rem;
-    padding-top: 1.5rem;
+    padding-top: 2rem;
     padding-left: 2rem;
 }
 
@@ -54,4 +53,8 @@ ol {
     font-family: 'EB Garamond', serif;
     list-style-type: none;
     padding-left: 2rem;
+}
+
+li {
+    padding-top: 3rem;
 }
