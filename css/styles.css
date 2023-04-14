@@ -7,7 +7,7 @@ html {
 h1 {
     color: #ffffff;
     font-family: 'EB Garamond', serif;
-    padding-bottom: 1.5rem;
+    padding-bottom: 2.5rem;
     padding-top: 1.5rem;
     padding-left: 2rem;
 }
@@ -34,7 +34,8 @@ a.Index:visited {
 a.PageLink:Link {
     color: #414042;
     border: 2px solid #000000;
-    font-size: 50px;
+    font-size: 35px;
+    padding: 1rem 1.5rem 1rem 1.5rem;
     text-decoration: none;
 }
 
@@ -55,8 +56,9 @@ ol {
     list-style-type: none;
     width: fit-content;
     text-align: center;
+    padding-left: 2rem;
 }
 
 li {
-    padding-right: 1rem;
+    list-style: none;
 }
