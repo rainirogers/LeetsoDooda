@@ -51,14 +51,7 @@ a.PageLink:visited {
 ol {
     color: #414042;
     background-color: #fff;
-    display: flex;
     font-family: 'EB Garamond', serif;
     list-style-type: none;
-    width: fit-content;
-    text-align: center;
     padding-left: 2rem;
-}
-
-li {
-    list-style: none;
 }
