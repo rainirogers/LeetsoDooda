@@ -22,6 +22,24 @@ h2 {
     padding-left: .5rem;
 }
 
+h3 {
+    color: #282829;
+    font-family: 'EB Garamond', serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: .5rem;
+    padding-top: 1rem;
+}
+
+h4 {
+    color: #282829;
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding-left: .5rem;
+    padding-top: 1rem;
+}
+
 p {
     color:#282829;
     font-family: 'EB Garamond', serif;
@@ -64,6 +82,10 @@ a.PageLink:Hover {
 
 a.PageLink:visited {
     color: #414042;
+    border: 2px solid #000000;
+    font-size: 25px;
+    padding: 1rem 1.5rem 1rem 1.5rem;
+    text-decoration: none;
 }
 
 ol {
@@ -77,4 +99,8 @@ ol {
 
 li {
     padding-top: 3rem;
+}
+
+.mines {
+    padding-bottom: 4rem;
 }
