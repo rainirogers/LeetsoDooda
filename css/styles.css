@@ -11,6 +11,12 @@ h1 {
     padding-left: 2rem;
 }
 
+p {
+    color:#282829;
+    font-family: 'EB Garamond', serif;
+    padding-left: 2rem;
+}
+
 a.Index {
     background-color: #ffffff;
     color: #000000;
