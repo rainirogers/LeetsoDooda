@@ -1,6 +1,7 @@
 html {
     background-color: #fff;
     display: block;
+    margin: 1rem 1rem 1rem 1rem;
     scroll-behavior: smooth;
 }
 
@@ -9,8 +10,8 @@ h1 {
     font-family: 'EB Garamond', serif;
     font-weight: 700;
     font-size: 30px;
-    padding-top: 2rem;
-    padding-left: 2rem;
+    padding-top: 1.5rem;
+    padding-left: 1rem;
 }
 
 h2 {
@@ -18,7 +19,7 @@ h2 {
     font-family: 'EB Garamond', serif;
     font-weight: 500;
     font-size: 18px;
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 
 p {
@@ -26,7 +27,7 @@ p {
     font-family: 'EB Garamond', serif;
     padding-left: 2rem;
     padding-top: 1.2rem;
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 
 a.Index {
@@ -70,7 +71,7 @@ ol {
     background-color: #fff;
     font-family: 'EB Garamond', serif;
     list-style-type: none;
-    padding-left: 2rem;
+    padding-left: 1rem;
     padding-bottom: 4rem;
 }
 
