@@ -48,6 +48,11 @@ p {
     padding-left: .5rem;
 }
 
+img {
+    padding-top: 1rem;
+    display: flex;
+}
+
 a.Index {
     background-color: #ffffff;
     color: #000000;
