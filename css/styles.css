@@ -75,7 +75,7 @@ a.Index:visited {
 a.PageLink:Link {
     color: #414042;
     border: 2px solid #000000;
-    font-size: 25px;
+    font-size: 20px;
     padding: 1rem 1.5rem 1rem 1.5rem;
     text-decoration: none;
 }
@@ -89,7 +89,7 @@ a.PageLink:Hover {
 a.PageLink:visited {
     color: #414042;
     border: 2px solid #000000;
-    font-size: 25px;
+    font-size: 20px;
     padding: 1rem 1.5rem 1rem 1.5rem;
     text-decoration: none;
 }
