@@ -81,8 +81,9 @@ a.PageLink:Link {
 }
 
 a.PageLink:Hover {
-    background-color: #414042;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #414042;
+    border: 3.5px solid #000000;
 }
 
 a.PageLink:visited {
